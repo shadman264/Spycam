@@ -1,1 +1,1 @@
-# Spycam
+This is a java project to secretly capture the image of the person who is logging in your computer. It will grab the image and save it so that you can find the person who is using your pc without your perimission ;) This could be more useful if it uploads the images automatically so that we can identify theif of stolen pc. 
